@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Roll Call</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="temp">Temporary Student Name</string>
+    <string name="late">Late</string>
+    <string name="unknown">Unknown</string>
+    <string name="Class1">CS 4011</string>
+    <string name="Class2">CS 4020</string>
+    <string name="Class3">CS 4280</string>
+    <string name="Class4">CS 4300</string>
+</resources>
